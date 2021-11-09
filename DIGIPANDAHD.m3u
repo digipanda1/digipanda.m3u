@@ -209,6 +209,13 @@ PT1BTzFOVGJ1UTNjcHhXZWh4R2N2TVhkc0JuY3ZNWGRzQm5jdk1YZHQwV1lsSkhkelJuY2gxMmN2OFda
 
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature
+PWdUZHowbUwzVm1USGwwVVBKRVN2SVhaME5YWXQ5Q1ZUVkVWdmsyWmhCVkwwRjJadUZXYmxOMUx0OTJZdVFuYmxSbmJ2Tm1jbE5YZGlWSGEwbDJadWNYWXk5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Movie Kingdom (No Break)" tvg-logo="https://image.roku.com/developer_channels/prod/eec31809f3d6d71fced82e9d9143a57637a6b9b80f5474e67feb1d5ffc482884.png" group-title="Movies",Movie Kingdom (No Break)
+PWdUZHowbUxqOUNNd0FETXI4U00wRTJNNUFETmlsVFp2UTNjaE5HWmg5bWNpOVNidk5tTHVSbWN6cG1MaDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="Movies",HBO
+PWsyWnZ4V1lhMWpibHQyYjA5RE8xTlRidUV6TFBKRVN2NFdhaDEyTGxaWGFzOWlicGRXYXk5Mkx6UURONG9UYnZObUxobDJjaDkyWnZKR2F1RURNdWwyWnBKM2JsWlhhczl5TDZNSGMwUkhh
+
 
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More (720p)" tvg-logo="https://i.imgur.com/JMn9sxk.png" group-title="Movies",Hallmark Movies & More (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
