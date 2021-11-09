@@ -236,6 +236,9 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Movies",HBO Hits
 NFUzTXQ1Q2VsUm1icDl5VVVsRVN2NFdhaDEyTGxaWGFzOWlicGRXYXk5Mkx6UURONG9UYnZObUxobDJjaDkyWnZKR2F1RURNdWwyWnBKM2JsWlhhczl5TDZNSGMwUkhh
 
+#EXTINF:-1 tvg-logo="https://www.v4stream.com/upload/source/Raise%20tamilhd.png" group-title="Movies",Rasi Movies
+PWdUZHowbUwwTlhhc2xYWXNCM0xwUm1icGhXYXpGbWN2c21jdmRIZGw1V2F6Rm1jdlV6TTVFak91bG1Ma1YzYnNOV2JoZG1icE4zTHZvRGMwUkhh
+
 
 #EXTINF:-1 tvg-id="BflixMovies.in" tvg-name="Bflix Movies (480p)" tvg-logo="https://i.imgur.com/z3ALZQQ.jpg" group-title="Movies",Bflix Movies (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
